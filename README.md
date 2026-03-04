@@ -1,17 +1,13 @@
-# 🚀 AWS Infrastructure Automation using Terraform with CI/CD
+#  AWS Infrastructure Automation using Terraform with CI/CD
 
-## 📌 Project Overview
+##  Project Overview
 
 This project provisions AWS infrastructure using Terraform (Infrastructure as Code) and automates deployment using GitHub Actions CI/CD pipeline.
-
-The infrastructure includes networking components and an EC2 instance that automatically installs and runs Nginx using a user_data script.
-
-This project demonstrates Infrastructure as Code (IaC) using Terraform to provision AWS resources and automate deployment using GitHub Actions.
 
 An EC2 instance is created inside a custom VPC and automatically installs and runs Nginx using a user_data script.
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 The following AWS resources are created:
 
