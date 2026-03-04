@@ -134,7 +134,7 @@ public_ip = "xx.xx.xx.xx"
 
 Access in browser:
 
-http://<public-ip>
+http://public_ip
 
 ---
 
