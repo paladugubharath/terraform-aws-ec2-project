@@ -86,3 +86,4 @@ resource "aws_instance" "web" {
     Name = "Terraform-EC2"
   }
 }
+# testing AI review
